@@ -18,10 +18,10 @@ This week we're featuring a patch from
 
 ### Useful Links
 
-* **Line 6 Forum https://line6.com/support/forum/86-helix/ -** *Official Line 6 Community Support Forum*
-* **Alex Strabala - https://alexstrabala.com/ -** *Presets for Helix, HX Stomp, Pod GO, FM3 + AX3*
-* **Brock Davisson - https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw -**
-* **Eric Broadbent the Helix Hour - https://www.youtube.com/user/EricBroadbentSolo -**
+* **[Line 6 Forum](https://line6.com/support/forum/86-helix/) -** *Official Line 6 Community Support Forum*
+* **[Alex Strabala](https://alexstrabala.com/) -** *Presets for Helix, HX Stomp, Pod GO, FM3 + AX3*
+* **[Brock Davisson](https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw) -**
+* **[Eric Broadbent the Helix Hour](https://www.youtube.com/user/EricBroadbentSolo) -**
 * **Chad Boston - https://www.youtube.com/user/discreetdatasecurity -**
 * **John Nathan Cordy - https://www.youtube.com/user/chuddgriffin -**
 * **Alex Price - https://www.youtube.com/user/SixStringSolid -**
