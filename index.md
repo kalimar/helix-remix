@@ -11,10 +11,12 @@ drops and stick around until the end for the featured patch of the week. Let's g
 to it!
 
 ### Helix Remix this Week
+[Helix Stock Cabs vs. Impulse Responses | REALITY: THIS NEEDS TO BE SAID! (with BLIND TEST!)](https://www.youtube.com/watch?v=qJGmhuRjmYk&t=1198s) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
+
 
 ### Patch of the Week
 
-I purchased my HX Stomp only about a month ago so to learn more about it I'm going to feature a patch from each amp for the next several weeks. So first up is the WhoWatt 100, which is based on the Hiwatt® DR-103 Brill. This is a patch from the Fluid Solo Patch Exchange (link below) created by the user Jorge, who also happens to be the maintainer of this amazing website. I've included links to the [patch](https://www.fluidsolo.com/patchexchange/patch/pink-floyd-comfortably-numb,71) and more about the [amp simulation](https://www.fluidsolo.com/patchexchange/view-model/Whowatt-100,79).
+I purchased my HX Stomp only about a month ago so to learn more about it I'm going to feature a patch from each amp for the next several weeks. So first up is the WhoWatt 100, which is based on the Hiwatt® DR-103 Brill. You heard it in the intro music, and in the background right now. This is a patch from the Fluid Solo Patch Exchange (link below) created by the user Jorge, who also happens to be the maintainer of this amazing website. I've included links to the [patch](https://www.fluidsolo.com/patchexchange/patch/pink-floyd-comfortably-numb,71) and more about the [ampsim](https://www.fluidsolo.com/patchexchange/view-model/Whowatt-100,79).
 
 ### Wrap-Up
 
