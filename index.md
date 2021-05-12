@@ -17,6 +17,7 @@ to it!
 * [Line 6 Helix Diezel VH4 Mega Amp is Sick](https://www.youtube.com/watch?v=AuJ-QdX5JWA) - Cool video with John Cordy soloing using the [Diezel VH4 Mega Amp](https://www.fluidsolo.com/patchexchange/view-model/Das-Benzin-Mega,39). At 2:40s he stops soloing and lets his backing track play so you can jam along.
 * [Line 6 Helix Native Improvisations](https://www.youtube.com/watch?v=zLA3vxLomng) - John Cordy again, this time recording with Helix Native, the DAW plugin. Some lovely sounds.
 * [Line 6 Helix - Going BACK IN TIME to the FIRST FIRMWARE](https://www.youtube.com/watch?v=ZDMc8F2RcTs) - John Cordy flashback - when he first got his hands on the Helix. Great for anyone who is interested in learning more about the flagship Helix Floor Unit.
+* [Neural DSP Quad Cortex vs. Fractal Audio Axe Fx3 vs Line6 Helix ](https://www.youtube.com/watch?v=l7Pnc0frASI) - Sebastian compares the three kings of amp modelling. **Spoiler alert!!!** - they don't sound drastically different, boils down to your budget and user experience preferences.
 
 
 ### Patch of the Week
