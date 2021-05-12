@@ -14,9 +14,11 @@ to it!
 
 ### Patch of the Week
 
+This week we're featuring a patch from 
+
 ### Useful Links
 
-* Line 6 Forum https://line6.com/support/forum/86-helix/
+* Line 6 Forum https://line6.com/support/forum/86-helix/ - 
 * Alex Strabala - https://alexstrabala.com/
 * Brock Davisson - https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw
 * Eric Broadbent the Helix Hour - https://www.youtube.com/user/EricBroadbentSolo
@@ -35,5 +37,8 @@ to it!
 * Jeremy Varao - https://www.youtube.com/channel/UCPlUXMNXXtke2s7RUXyAqUw
 * Joe gore - https://www.youtube.com/channel/UCl7io4nYepvkldJg94R-_aQ
 * Aaron Short -https://www.youtube.com/channel/UC5sAUZuZVD58aAEYVrcunXw
+* chop tone patches - https://choptones.com/
+* Fluid Solo Patch Exchange - https://www.fluidsolo.com/patchexchange/ - Fluid Solo is an easy-to-use site for sharing patches used in the Line 6 Helix family, as well as the Pod Go. The HX Effects device is currently not supported. 
+* Helix Help - https://helixhelp.com/ - is the unofficial guide for the Line 6 HX family of products. Get started to find models, tips, reference guides, release notes and much more. 
 
 **Disclaimer:** All opinions are my own. I have no affiliation with Line 6 or other brands.
