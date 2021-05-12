@@ -14,7 +14,7 @@ to it!
 
 ### Patch of the Week
 
-This week we're featuring a patch from 
+I purchased my HX Stomp only about a month ago so to learn more about it I'm going to feature a patch from each amp for the next several weeks. So first up is the WhoWatt 100, which is based on the Hiwatt® DR-103 Brill. This is a patch from the Fluid Solo Patch Exchange (link below) created by the user Jorge, who also happens to be the maintainer of this amazing website. I've included links to the [patch](https://www.fluidsolo.com/patchexchange/patch/pink-floyd-comfortably-numb,71) and more about the [Ampsim](https://www.fluidsolo.com/patchexchange/view-model/Whowatt-100,79).
 
 ### Wrap-Up
 
