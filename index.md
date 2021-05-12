@@ -18,14 +18,14 @@ This week we're featuring a patch from
 
 ### Useful Links
 
-* Line 6 Forum https://line6.com/support/forum/86-helix/ - Official Line 6 Community Support Forum
-* Alex Strabala - https://alexstrabala.com/ - Presets for Helix, HX Stomp, Pod GO, FM3 + AX3: 
-* Brock Davisson - https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw
-* Eric Broadbent the Helix Hour - https://www.youtube.com/user/EricBroadbentSolo
-* Chad Boston - https://www.youtube.com/user/discreetdatasecurity
-* John Nathan Cordy - https://www.youtube.com/user/chuddgriffin
-* Alex Price - https://www.youtube.com/user/SixStringSolid
-* Steve Starlacci - https://www.youtube.com/user/ss57790
+* **Line 6 Forum https://line6.com/support/forum/86-helix/ -** *Official Line 6 Community Support Forum*
+* **Alex Strabala - https://alexstrabala.com/ -** *Presets for Helix, HX Stomp, Pod GO, FM3 + AX3*
+* **Brock Davisson - https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw -**
+* **Eric Broadbent the Helix Hour - https://www.youtube.com/user/EricBroadbentSolo -**
+* **Chad Boston - https://www.youtube.com/user/discreetdatasecurity -**
+* **John Nathan Cordy - https://www.youtube.com/user/chuddgriffin -**
+* **Alex Price - https://www.youtube.com/user/SixStringSolid -**
+* **Steve Starlacci - https://www.youtube.com/user/ss57790 -**
 * Jason Sadites - https://www.youtube.com/user/gtr111 - In-depth videos on dialing in tones using the Helix Family of guitar processors.
 * facebook forum - hx stomp - https://www.facebook.com/groups/hxstompofficial - Line 6 HX STOMP / STOMP XL OFFICIAL and ORIGINAL
 * helix line 6 - https://www.facebook.com/groups/line6helixusergroup - "The friendliest place on the internet dedicated to all things from the Line 6 HX Family"
