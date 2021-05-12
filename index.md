@@ -15,15 +15,16 @@ to it!
 * [Line 6 HX Stomp XL (y firmware de Helix 3.1), el análisis completo](https://www.youtube.com/watch?v=glHhGGh9w14) - Para neustros amigos latinos, a thorough review of the HX Stomp XL. 
 * [Line 6 Helix & HX Stomp Vintage Clean Tone- NO GUITAR AMP + HX Stomp GIVEAWAY](https://www.youtube.com/watch?v=2NKicz_9vtE) - Steve Starlacci talks about launching his [new website](https://stevesterlacci.com) and the big give away sponsored by Line 6. Then walked us through how he dialed in a preset inspired by Motown using no amp or cab. They were known for recording directly into the mixing console so this was pretty interesting. 
 * [Line 6 Helix Diezel VH4 Mega Amp is Sick](https://www.youtube.com/watch?v=AuJ-QdX5JWA) - Cool video with John Cordy soloing using the [Diezel VH4 Mega Amp](https://www.fluidsolo.com/patchexchange/view-model/Das-Benzin-Mega,39). At 2:40s he stops soloing and lets his backing track play so you can jam along.
-* [Line 6 Helix Native Improvisations](https://www.youtube.com/watch?v=zLA3vxLomng) - John Cordy again, this time recording with Helix Native, the DAW plugin. Some lovely sounds.
-* [Line 6 Helix - Going BACK IN TIME to the FIRST FIRMWARE](https://www.youtube.com/watch?v=ZDMc8F2RcTs) - John Cordy flashback - when he first got his hands on the Helix. Great for anyone who is interested in learning more about the flagship Helix Floor Unit.
+* [Free Patch for Tom Petty Helix/Variax tone](https://www.youtube.com/watch?v=OrHZ-95OeIA) - link in the description to the Helix Patch. Sounds pretty rad!
+* [Line 6 Helix - Going BACK IN TIME to the FIRST FIRMWARE](https://www.youtube.com/watch?v=ZDMc8F2RcTs) - John Cordy flashback - when he first got his hands on the Helix. Great for anyone who is interested in learning more about the flagship Helix Floor Unit. Some funny overdubbed comments
 * [Neural DSP Quad Cortex vs. Fractal Audio Axe Fx3 vs Line6 Helix ](https://www.youtube.com/watch?v=l7Pnc0frASI) - Sebastian compares the three kings of amp modelling. **Spoiler alert!!!** - they don't sound drastically different, boils down to your budget and user experience preferences.
 
 I have a few more links in the description below that are worth noting but we ran out of time to discuss here:
 * [When you Wish Upon a Star - Gibson ES165 Herb Ellis and Line 6 Helix](https://www.youtube.com/watch?v=lIHHlyFkL1k)
 * [Innuendo Queen using line 6 Helix looper.](https://www.youtube.com/watch?v=eXb4xl0LcWs) - Impressive!
 * [Line 6 Helix - Acoustic Guitar Preset - With IR](https://www.youtube.com/watch?v=lC9eZ3bSimA)
-* [Free Patch for Tom Petty Helix/Variax tone](https://www.youtube.com/watch?v=OrHZ-95OeIA) - link in the description to the Helix Patch.
+* [Line 6 Helix Native Improvisations](https://www.youtube.com/watch?v=zLA3vxLomng) - John Cordy again, this time recording with Helix Native, the DAW plugin. Some lovely sounds.
+
 
 
 
