@@ -11,7 +11,12 @@ drops and stick around until the end for the featured patch of the week. Let's g
 to it!
 
 ### Helix Remix this Week
-[Helix Stock Cabs vs. Impulse Responses | REALITY: THIS NEEDS TO BE SAID! (with BLIND TEST!)](https://www.youtube.com/watch?v=qJGmhuRjmYk&t=1198s) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
+* [Helix Stock Cabs vs. Impulse Responses | REALITY: THIS NEEDS TO BE SAID! with BLIND TEST!](https://www.youtube.com/watch?v=qJGmhuRjmYk) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
+* [Line 6 HX Stomp XL (y firmware de Helix 3.1), el análisis completo](https://www.youtube.com/watch?v=glHhGGh9w14) - Para neustros amigos latinos, a thorough review of the HX Stomp XL. 
+* [Line 6 Helix & HX Stomp Vintage Clean Tone- NO GUITAR AMP + HX Stomp GIVEAWAY](https://www.youtube.com/watch?v=2NKicz_9vtE) - Steve Starlacci talks about launching his [new website](https://stevesterlacci.com) and the big give away sponsored by Line 6. Then walked us through how he dialed in a preset inspired by Motown using no amp or cab. They were known for recording directly into the mixing console so this was pretty interesting. 
+* [Line 6 Helix Diezel VH4 Mega Amp is Sick](https://www.youtube.com/watch?v=AuJ-QdX5JWA) - Cool video with John Cordy soloing using the [Diezel VH4 Mega Amp](https://www.fluidsolo.com/patchexchange/view-model/Das-Benzin-Mega,39). At 2:40s he stops soloing and lets his backing track play so you can jam along.
+* [Line 6 Helix Native Improvisations](https://www.youtube.com/watch?v=zLA3vxLomng) - John Cordy again, this time recording with Helix Native, the DAW plugin. Some lovely sounds.
+* [Line 6 Helix - Going BACK IN TIME to the FIRST FIRMWARE](https://www.youtube.com/watch?v=ZDMc8F2RcTs) - John Cordy flashback - when he first got his hands on the Helix. Great for anyone who is interested in learning more about the flagship Helix Floor Unit.
 
 
 ### Patch of the Week
