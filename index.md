@@ -38,40 +38,42 @@ Remember to subscribe to this channel so you don't miss the next episode. If the
 ## Useful Links
 
 ### Forums and Helpful Resources
-* [Tips for new users from Alex Strabala](https://alexstrabala.com/new-helix-users)
 * [Helix Help](https://helixhelp.com/) - *is the unofficial guide for the Line 6 HX family of products. Get started to find models, tips, reference guides, release notes and much more.* 
 * [Helix Line 6 Facebook Group](https://www.facebook.com/groups/line6helixusergroup) - *The friendliest place on the internet dedicated to all things from the Line 6 HX Family*
+* [Tips for new users from Alex Strabala](https://alexstrabala.com/new-helix-users)
 
 ### Patch Stores and Exchanges
-* [Official Line 6 Patches](https://shop.line6.com/marketplace/)
-* [Fluid Solo Patch Exchange](https://www.fluidsolo.com/patchexchange/) *Fluid Solo is an easy-to-use site for sharing patches used in the Line 6 Helix family, as well as the Pod Go. The HX Effects device is currently not supported.* 
-* [Worship Tutorials](https://worshiptutorials.com/helix) - *They sell patches but also have lots of great free instructional content on YouTube*
-* [chop tone patches](https://choptones.com)
+* [Chop tone patches](https://choptones.com)
+* [Fluid Solo Patch Exchange](https://www.fluidsolo.com/patchexchange/) - *Fluid Solo is an easy-to-use site for sharing patches used in the Line 6 Helix family, as well as the Pod Go. The HX Effects device is currently not supported.* 
 * [Line 6 Official Patch exchange](https://line6.com/customtone)
+* [Official Line 6 Patches](https://shop.line6.com/marketplace/)
+* [Patch District](https://www.thepatchdistrict.com)
+* [Worship Tutorials](https://worshiptutorials.com/helix) - *They sell patches but also have lots of great free instructional content on YouTube*
+
 
 ### Artists 
 These artists release amazing free instructional content on using Helix, HX Stomp, Pod Go. Some also sell patches that can just be dropped in to your guitar processor.
 
+* [Aaron Short](https://www.youtube.com/channel/UC5sAUZuZVD58aAEYVrcunXw)
+* [Alex Price](https://www.youtube.com/user/SixStringSolid)
 * [Alex Strabala](https://alexstrabala.com/)
 * [Brock Davisson](https://www.youtube.com/channel/UCmMspPmbaj3GOaYn3GtdUmw)
-* [Eric Broadbent the Helix Hour](https://www.youtube.com/user/EricBroadbentSolo)
 * [Chad Boston](https://www.youtube.com/user/discreetdatasecurity)
-* [John Nathan Cordy](https://www.youtube.com/user/chuddgriffin)
-* [Alex Price](https://www.youtube.com/user/SixStringSolid)
-* [Steve Sterlacci](https://www.youtube.com/user/ss57790)
-* [Jason Sadites](https://www.youtube.com/user/gtr111)
 * [David Hislop](https://www.davidhislop.co/helix)
-* [Jonny Lee](https://www.youtube.com/channel/UCojrsgjSidXCAubYBRA2gvQ?view_as=subscriber)
+* [Eric Broadbent the Helix Hour](https://www.youtube.com/user/EricBroadbentSolo)
+* [Jason Sadites](https://www.youtube.com/user/gtr111)
 * [Jeremy Varao](https://www.youtube.com/channel/UCPlUXMNXXtke2s7RUXyAqUw)
 * [Joe Gore](https://www.youtube.com/channel/UCl7io4nYepvkldJg94R-_aQ)
-* [Aaron Short](https://www.youtube.com/channel/UC5sAUZuZVD58aAEYVrcunXw)
+* [John Nathan Cordy](https://www.youtube.com/user/chuddgriffin)
+* [Jonny Lee](https://www.youtube.com/channel/UCojrsgjSidXCAubYBRA2gvQ?view_as=subscriber)
+* [Steve Sterlacci](https://www.youtube.com/user/ss57790)
 
 ### Free Professional Patches to Get Started
-* [Alex Strabala AC30](https://alexstrabala.com/hx-stomp-presets/hx-stomp-ac30-free)
-* [5 Watt World Beano for Humbuckers](https://flatfiv.co/collections/five-watt-world/products/hx-stomp-preset-beano-for-humbuckers)
-* [Worship Tutorials AC30](https://worshiptutorials.com/product/ac30-free-hx-stomp-patch/)
-* [Tone Junkies](https://tonejunkiestore.com/hx-helix-free-pack)
 
+* [5 Watt World Beano for Humbuckers](https://flatfiv.co/collections/five-watt-world/products/hx-stomp-preset-beano-for-humbuckers)
+* [Alex Strabala AC30](https://alexstrabala.com/hx-stomp-presets/hx-stomp-ac30-free)
+* [Tone Junkies](https://tonejunkiestore.com/hx-helix-free-pack)
+* [Worship Tutorials AC30](https://worshiptutorials.com/product/ac30-free-hx-stomp-patch/)
 
 **Disclaimer:** All opinions are my own. I have no affiliation with Line 6 or other brands.
 
