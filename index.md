@@ -68,3 +68,6 @@ These artists release amazing free instructional content on using Helix, HX Stom
 
 
 **Disclaimer:** All opinions are my own. I have no affiliation with Line 6 or other brands.
+
+**Logo Credit**: https://www.pexels.com/@frank-cone-140140
+**Song used with patch**: https://www.youtube.com/watch?v=pl8JugCg2eY MegaBacking Tracks.
