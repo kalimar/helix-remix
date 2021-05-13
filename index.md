@@ -5,8 +5,7 @@
 
 Hello helix community - My name is Kalimar and this is the first installment of the weekly helix remix 
 where we bring you the latest Linex 6 Helix Community news in under a minute. 
-I hope you find this helpful. I can also email you a weekly transcript with all the links. Tell me 
-in the comments . Subscribe if you want to get alerts the next time Helix Remix
+I hope you find this helpful. I can also email you a weekly transcript with all the links. Sign up in the comments [HERE!](https://kalimar.github.io/helix-remix/email-signup.html) . Subscribe if you want to get alerts the next time Helix Remix
 drops and stick around until the end for the featured patch of the week. Let's get right 
 to it!
 
