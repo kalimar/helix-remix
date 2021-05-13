@@ -58,7 +58,7 @@ These artists release amazing free instructional content on using Helix, HX Stom
 * [Chad Boston](https://www.youtube.com/user/discreetdatasecurity)
 * [John Nathan Cordy](https://www.youtube.com/user/chuddgriffin)
 * [Alex Price](https://www.youtube.com/user/SixStringSolid)
-* [Steve Starlacci](https://www.youtube.com/user/ss57790)
+* [Steve Sterlacci](https://www.youtube.com/user/ss57790)
 * [Jason Sadites](https://www.youtube.com/user/gtr111)
 * [David Hislop](https://www.davidhislop.co/helix)
 * [Jonny Lee](https://www.youtube.com/channel/UCojrsgjSidXCAubYBRA2gvQ?view_as=subscriber)
