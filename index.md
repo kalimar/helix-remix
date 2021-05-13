@@ -70,6 +70,7 @@ These artists release amazing free instructional content on using Helix, HX Stom
 * [Alex Strabala AC30](https://alexstrabala.com/hx-stomp-presets/hx-stomp-ac30-free)
 * [5 Watt World Beano for Humbuckers](https://flatfiv.co/collections/five-watt-world/products/hx-stomp-preset-beano-for-humbuckers)
 * [Worship Tutorials AC30](https://worshiptutorials.com/product/ac30-free-hx-stomp-patch/)
+* [Tone Junkies](https://tonejunkiestore.com/hx-helix-free-pack)
 
 
 **Disclaimer:** All opinions are my own. I have no affiliation with Line 6 or other brands.
