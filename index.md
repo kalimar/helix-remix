@@ -10,6 +10,10 @@ drops and stick around until the end for the featured patch of the week. Let's g
 to it!
 
 ### Helix Remix this Week
+(In descending view count order)
+
+* [How to Prepare Your HELIX for a GIG - Tips and Ideas](https://www.youtube.com/watch?v=AxBJObfwlLE) - How to get ready for a gig with Helix!
+* [No Longer Slaves - Bethel Music - Electric guitar cover // Line 6 Helix patch](https://www.youtube.com/watch?v=Z0aisjMqYxU) - Demos the patch for the guitar parts, and talks a little about the guitar used in the recording.
 * [Helix Stock Cabs vs. Impulse Responses with BLIND TEST](https://www.youtube.com/watch?v=qJGmhuRjmYk) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
 * [Line 6 HX Stomp XL (y firmware de Helix 3.1), el análisis completo](https://www.youtube.com/watch?v=glHhGGh9w14) - Para neustros amigos latinos, a thorough review of the HX Stomp XL. 
 * [Line 6 Helix & HX Stomp Vintage Clean Tone- NO GUITAR AMP + HX Stomp GIVEAWAY](https://www.youtube.com/watch?v=2NKicz_9vtE) - Steve Sterlacci talks about launching his [new website](https://stevesterlacci.com) and the big give away sponsored by Line 6. Then walked us through how he dialed in a preset inspired by Motown using no amp or cab. They were known for recording directly into the mixing console so this was pretty interesting. 
