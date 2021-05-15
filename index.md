@@ -12,6 +12,8 @@ to it!
 ### Helix Remix this Week
 (In descending view count order)
 
+The background music is brought to you by John Nathan Cordy's ambient video. Be sure to [check it out](https://www.youtube.com/watch?v=OTUiQp7jNZ8&t=248s)
+
 * [How to Prepare Your HELIX for a GIG - Tips and Ideas](https://www.youtube.com/watch?v=AxBJObfwlLE) - How to get ready for a gig with Helix!
 * [No Longer Slaves - Bethel Music - Electric guitar cover // Line 6 Helix patch](https://www.youtube.com/watch?v=Z0aisjMqYxU) - Demos the patch for the guitar parts, and talks a little about the guitar used in the recording.
 * [Helix Stock Cabs vs. Impulse Responses with BLIND TEST](https://www.youtube.com/watch?v=qJGmhuRjmYk) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
