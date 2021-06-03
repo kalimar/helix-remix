@@ -16,9 +16,17 @@ The background music is brought to you by ...
 * [https://www.youtube.com/watch?v=ODEqmjDfRuk](Hillsong - Line 6 Helix and HX Stomp patch update) -
 * [https://www.youtube.com/watch?v=kZfUcxjseOs](You Are The Lord - Passion - Electric Guitar cover // line 6 helix Patch) -
 * [https://www.youtube.com/watch?v=jjvOMKoK7cc](Line 6 Multi FX / Which Should YOU buy?!) - 
-* [https://www.youtube.com/watch?v=qJGmhuRjmYk&t=1323s](Helix Stock Cabs vs impulse Responses) - Such a great series
+* [https://www.youtube.com/watch?v=qJGmhuRjmYk&t=1323s](Helix Stock Cabs vs impulse Responses) - Such a great series with a few videos.
 * [https://www.youtube.com/watch?v=Mx7Dt3IaFQQ](Dr.66 - Line 6 helix, HX Stomp, and POD Go patch based on the Dr.Z Route 66 amp model) - 
-* 
+* [https://www.youtube.com/watch?v=OJvIXFCXdBc&t=361s](Classic Analog Synth tones with the line 6 HX Stomp) -
+* [https://www.youtube.com/watch?v=PrtXIjIcwVY](shortcuts you NEED to know for Line 6 Helix) - 
+* [https://www.youtube.com/watch?v=2jghqUlBTas&t=81s](sound like John Petrucci with the Line 6 Helix) -
+* [https://www.youtube.com/watch?v=qFpC0TyDe3c](Line 6 Helix / Orange Rockerverb 100 MKIII aka Mandarin Rocker) -
+* [https://www.youtube.com/watch?v=qevrH-E3VYo&t=120s](Sound Like Kurt Rosenwinkel with the Line 6 Helix) -
+* [https://www.youtube.com/watch?v=QkU4Fb5wduY](Bon Jovi - It's My Life / Cover/Tutorial with Tabs) - Helix Patch and backing track in the comments.
+* [https://www.youtube.com/watch?v=7mQzHrd4cQ0](Line 6 Helix 106: Dual Amp Setup) -
+* [https://www.youtube.com/watch?v=eFiAvO0tkoM](Orange OR80 Line 6 Helix - Sunshine of your Love Improv)
+* [https://www.youtube.com/watch?v=Tw9QafZjcU8](#room335 #larrycarlton #helix #cuvave Helix Vs Cuvave!!!!!)
 
 
 ### Patch of the Week
