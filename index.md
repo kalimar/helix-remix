@@ -1,26 +1,3 @@
-
-## May 16 2021 - June 4 2021
-### Intro
-
-Hello helix community - My name is Kalimar and this is the first installment of the weekly helix remix 
-where we highlight some of the most watched Line 6 Helix YouTube Videos from last week, in under 1 minute. In this video I'll focus primarily on the instructional videos but in the comments I'll also include patch demos and performances that were most watched. 
-I hope you find this helpful. Sign up in the comments [HERE!](https://kalimar.github.io/helix-remix/email-signup.html) to receive this transcript as an email as well. . Hit the Bell icon if you want to get alerted the next time Helix Remix drops and stick around until the end for the featured patch of the week. Let's get right 
-to it!
-
-### Helix Remix this Week
-In no specific order
-
-The background music is brought to you by 
-
-* [Helix Stock Cabs vs. Impulse Responses with BLIND TEST](https://www.youtube.com/watch?v=qJGmhuRjmYk) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
-
-
-### Patch of the Week
-
-### Wrap-Up
-In the description I also include a slew of what I think are useful links. If there's something I missed, please let me know in the comments. Remember to subscribe to this channel so you don't miss the next episode.  I'm Kalimar and thanks for watching Helix Remix.
-
-
 ## May 8 2021 - May 15 2021
 
 ### Intro
