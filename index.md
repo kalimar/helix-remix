@@ -10,9 +10,15 @@ to it!
 ### Helix Remix this Week
 In no specific order
 
-The background music is brought to you by 
+The background music is brought to you by ...
 
-* [Helix Stock Cabs vs. Impulse Responses with BLIND TEST](https://www.youtube.com/watch?v=qJGmhuRjmYk) - I learned a lot about Helix cab simulation vs impulse responses in this video. Jason walks through how he setup the comparison and then provides tips and tricks for dialing in tones with stock cabs.
+* [https://www.youtube.com/watch?v=S1IUWNBaN_s](I Bought A Line6 helix in 2021) -
+* [https://www.youtube.com/watch?v=ODEqmjDfRuk](Hillsong - Line 6 Helix and HX Stomp patch update) -
+* [https://www.youtube.com/watch?v=kZfUcxjseOs](You Are The Lord - Passion - Electric Guitar cover // line 6 helix Patch) -
+* [https://www.youtube.com/watch?v=jjvOMKoK7cc](Line 6 Multi FX / Which Should YOU buy?!) - 
+* [https://www.youtube.com/watch?v=qJGmhuRjmYk&t=1323s](Helix Stock Cabs vs impulse Responses) - Such a great series
+* [https://www.youtube.com/watch?v=Mx7Dt3IaFQQ](Dr.66 - Line 6 helix, HX Stomp, and POD Go patch based on the Dr.Z Route 66 amp model) - 
+* 
 
 
 ### Patch of the Week
